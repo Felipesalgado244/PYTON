@@ -1,0 +1,5 @@
+idade_user = input('Informe sua idade aqui: ')
+idade_parent = input('Informe a idade de algum parente seu: ')
+nome_user = input('informe seu nome aqui: ')
+print(int(idade_parent) * int(idade_user))
+print(nome_user)
