@@ -1,0 +1,5 @@
+nota01 = input('informe a nota do primeiro bimestre: ')
+nota02 = input('informe a nota do segundo bimestre: ')
+nota03 = input('informe a nota do terceiro bimestre: ')
+nota04 = input('informe a nota do quarto bimestre: ')
+print((float(nota01) + float(nota02) + float(nota03) + float(nota04)) / 4)
