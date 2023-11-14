@@ -6,18 +6,18 @@
 # pop remove o ultimo item da lista
 # insert ele adiciona um objeto no inicio da lista
 
-# lista = []
-# print(lista, type(lista))
-# print(len(lista))
-# lista = ['front']
-# print(lista, type(lista))
-# print(len(lista))
-# lista = ['back']
-# print(lista, type(lista))
-# print(len(lista))
-# lista.append('front')
-# print(lista, type(lista))
-# print(len(lista))
+lista = []
+print(lista, type(lista))
+print(len(lista))
+lista = ['front']
+print(lista, type(lista))
+print(len(lista))
+lista = ['back']
+print(lista, type(lista))
+print(len(lista))
+lista.append('front')
+print(lista, type(lista))
+print(len(lista))
 
 
 
