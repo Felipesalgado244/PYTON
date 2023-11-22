@@ -5,3 +5,5 @@ while total:
     numero = input('informe um numero: ')
 
 #INCOMPLETO!
+
+maior = 0
